@@ -1,0 +1,12 @@
+
+.PunkContainer>h1{
+    margin: 20px;
+    color: antiquewhite;
+    text-align: center;
+}
+.PunkContainer> .punkList{
+    display: flex;
+    cursor: pointer;
+    flex-wrap:wrap;
+    justify-content: center;
+}
