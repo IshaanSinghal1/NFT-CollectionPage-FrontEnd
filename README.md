@@ -1,3 +1,7 @@
+Project Screenshots
+![image](https://user-images.githubusercontent.com/54366055/155993085-6c087c1a-233f-4538-8b39-4bd2d8d468d8.png)
+
+**The project is a demonstration of how we can fetch an nft collection that is minted on openSea testnet and use it to create a seperate front end for particular collection of a specific user.**
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
